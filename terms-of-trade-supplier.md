@@ -1,4 +1,4 @@
-#Terms of Trade - Supplier
+# Terms of Trade - Supplier
 Version 1.0
 
 ## 1. Terms
