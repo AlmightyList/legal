@@ -41,9 +41,9 @@ Version 1.0
 - 3.4. You agree to provide accurate, current and complete information during the registration process.  We reserve the right to suspend or terminate your Account if any information provided during the registration process or thereafter proves to be inaccurate, not current or incomplete.
 - 3.5 You acknowledge that if there are any changes to the information provided by you when registering for an Account, those changes must be updated by you on the App.
 - 3.6. You are responsible for:
-- (a) ensuring that only appropriate and authorised persons are given access to your Account;
-- (b) monitoring such authorised persons use of the App to ensure compliance with these terms; and
-- (c) any activities or actions under your Account, whether or not you have authorised such activities or actions.
+  - (a) ensuring that only appropriate and authorised persons are given access to your Account;
+  - (b) monitoring such authorised persons use of the App to ensure compliance with these terms; and
+  - (c) any activities or actions under your Account, whether or not you have authorised such activities or actions.
 - 3.7 If we have reason to suspect that you are in breach of these terms or there has been unauthorised access to your Account, we may immediately terminate, cancel or suspend your Account and revoke your access to the App (in our absolute discretion).
 
 ## 4. Goods
@@ -110,8 +110,7 @@ Version 1.0
 - 10.1 You agree that the Consumer Guarantees Act 1993 will not apply in relation to:
   - (a) your supply of Goods to the Buyers; and
   - (b) your use of the App in accordance with these terms,
-
-as all Buyers and suppliers are businesses selling and/or acquiring Goods and using the App for business purposes.
+- as all Buyers and suppliers are businesses selling and/or acquiring Goods and using the App for business purposes.
 
 - 10.2 For the avoidance of doubt, we make the App available to enable use by Buyers and suppliers for transactions.  We are not a party to any sale or purchase of Goods on the App and give no guarantee or warranty in relation to any Goods listed on the App.  We will not be liable to you or any Buyer for:
   - (a) any Goods that are listed on the App;
