@@ -121,9 +121,7 @@ Version 1.0
 - 10.1 You agree that the Consumer Guarantees Act 1993 will not apply in relation to:
   - (a) your supply of Goods to the Buyers; and
   - (b) your use of the App in accordance with these terms,
-
- as all Buyers and suppliers are businesses selling and/or acquiring Goods and using the App for business purposes.
-
+- as all Buyers and suppliers are businesses selling and/or acquiring Goods and using the App for business purposes.
 - 10.2 For the avoidance of doubt, we make the App available to enable use by Buyers and suppliers for transactions.  We are not a party to any sale or purchase of Goods on the App and give no guarantee or warranty in relation to any Goods listed on the App.  We will not be liable to you or any Buyer for:
   - (a) any Goods that are listed on the App;
   - (b) the safety, quality or legality of any Goods listed on the App;
