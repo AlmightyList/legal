@@ -2,7 +2,7 @@
 
 ### Buyer code snippet for wix
 
-`
+```
 <div id="render-terms-of-trade"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js"></script>
 <script>
@@ -32,11 +32,11 @@
       renderLocation.innerHTML = md.render(data)
     });
 </script>
-`
+```
 
 ### Supplier code snippet for wix
 
-`
+```
 <div id="render-terms-of-trade"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/13.0.1/markdown-it.min.js"></script>
 <script>
@@ -66,4 +66,4 @@
       renderLocation.innerHTML = md.render(data)
     });
 </script>
-`
+```
