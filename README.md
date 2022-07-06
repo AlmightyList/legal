@@ -1,5 +1,9 @@
 # legal
 
+This is a repo for PUBLIC legal docs. DON'T put sensitive info in here.
+
+The docs folder is served as a static site via the github pages system. This allows us to access content files (with a single source of truth) from multiple places.
+
 ### Buyer code snippet for wix
 
 ```
