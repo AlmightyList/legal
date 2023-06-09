@@ -1,14 +1,14 @@
-# Terms of Trade - Supplier
+## Terms of Trade - Supplier
 
 Version 1.0
 
-## 1. Terms
+### 1. Terms
 
 - 1.1 These terms apply when you access and use the App as a supplier.
 - 1.2. By registering for an Account you accept these terms.  If you do not accept these terms, you must not use the App.
 - 1.3. If any of these terms are not enforceable for any reason, that part of the terms will be deleted and the rest of these terms will apply.
 
-## 2. Definitions and Interpretation
+### 2. Definitions and Interpretation
 
 - 2.1 The following definitions are used in these terms:
   - **Account** means a supplier account on the App.
@@ -33,7 +33,7 @@ Version 1.0
   - **We**, our or us means Almighty List Limited (company number 5510087).
   - **You** or your means you, the supplier.
 
-## 3. Account
+### 3. Account
 
 - 3.1 You agree to supply the Goods to Buyers on and subject to these terms.
 - 3.2 In order to supply Goods in accordance with these terms, you must register for an Account.
@@ -50,7 +50,7 @@ Version 1.0
   - (c) any activities or actions under your Account, whether or not you have authorised such activities or actions.
 - 3.7 If we have reason to suspect that you are in breach of these terms or there has been unauthorised access to your Account, we may immediately terminate, cancel or suspend your Account and revoke your access to the App (in our absolute discretion).
 
-## 4. Goods
+### 4. Goods
 
 - 4.1. You can list Goods for sale using the App.  All Goods listed by you will be available for Buyers to purchase through the App.
 - 4.2. When listing the Goods, you must provide the following details:​
@@ -74,7 +74,7 @@ Version 1.0
     - (iv)match any samples or demonstrations given by you (if applicable).
 - 4.6. Buyers may raise concerns in relation to Goods provided by you.  You agree to consider and resolve any concerns raised by Buyers in accordance with the terms and conditions agreed to between you and the Buyer pursuant to clause 5.4.
 
-## 5. Orders
+### 5. Orders
 
 - 5.1. A Buyer may make an order for Goods by submitting a Buyer Order to you using the App.
 - 5.2. Buyer Orders will be accepted automatically provided there is sufficient quantity of the selected Goods listed on the App.
@@ -86,7 +86,7 @@ Version 1.0
   - (e) any other relevant information or instructions.
 - 5.4. By submitting a Buyer Order, the Buyer accepts your terms and conditions which will be available on the App in accordance with clause 4.2(h).
 
-## 6. Payment by the Buyer
+### 6. Payment by the Buyer
 
 - 6.1. The Buyer will pay you the Price in accordance with this clause 6.
 - 6.2. Upon receipt of a Buyer Order, an invoice will be sent to the Buyer via the App for the total Price payable by the Buyer for the Buyer Order.  The invoice must contain the following information:
@@ -96,27 +96,27 @@ Version 1.0
   - (d) your payment terms and conditions.
 - 6.3. The Buyer will pay the invoice direct to you, in accordance with your payment terms and conditions available on the App pursuant to clause 4.2(h).
 
-## 7. Payment to us
+### 7. Payment to us
 
 - 7.1. You will pay us the Subscription Fee and Transaction Fee in accordance with this clause 7.
 - 7.2. In consideration of your use of the App you will pay to us:
   - (a) A monthly Subscription Fee.  You will be charged the Subscription Fee on the same day each month (e.g. if you register for an Account on the 5th of the month then you will be charged the Subscription Fee on the 5th of each month) (the Subscription Renewal Date).  We will automatically charge the Subscription Fee to the credit/debit card registered to your Account on the Subscription Renewal Date, unless you have provided us with notice of termination prior to the Subscription Renewal Date, in accordance with clause 11.
   - (b)The Transaction Fees.  We will invoice you monthly for the Transaction Fees payable by you to us for the Buyer Orders placed during the previous month.  You must pay the invoice on or before the due date specified on the invoice.
 
-## 8. Delivery
+### 8. Delivery
 
 - 8.1. You must deliver (or procure the delivery of) the Goods specified in a Buyer Order:
   - (a) within the timeframe specified by you on the App.  We will not be liable for any loss or damage suffered by the Buyer or any other person for your failure to deliver the Goods within that timeframe; and
   - (b) to the Delivery Location.
 - 8.2. Risk of any loss or damage to the Goods lies with you until the Goods have been delivered to the Delivery Location at which point in time risk of any loss or damage to the Goods will pass to the Buyer.
 
-## 9. Intellectual Property
+### 9. Intellectual Property
 
 - 9.1. We agree that all Intellectual Property is solely owned by you.
 - 9.2. If you have registered for an Account, then, subject to your compliance with these terms, we grant you a non-exclusive licence, with no right to sublicense, to access and use the App for your business purposes.  This licence will terminate at the expiry or termination of these terms.
 - 9.3. You grant to us a limited, non-exclusive, non-transferable, revocable and royalty-free licence to use the logo provided by you when registering for an Account on the App and images of the Goods provided by you in accordance with clause 4.2(a), for the purposes of listing your Goods on the App.
 
-## 10. Liability
+### 10. Liability
 
 - 10.1 You agree that the Consumer Guarantees Act 1993 will not apply in relation to:
   - (a) your supply of Goods to the Buyers; and
@@ -131,13 +131,13 @@ Version 1.0
 - 10.4 We will not be liable to you for any indirect or consequential losses or damages, loss of business or loss of profits.
 - 10.5 You indemnify us from and against any losses, damages, costs, claims, or proceedings we incur or are subject to as a result of your use of the App or failure to comply with these terms, including if we cancel your Account due to your breach of these terms.
 
-## 11. Termination
+### 11. Termination
 
 - 11.1 These terms may be terminated immediately by either party giving written notice to the other, or by you cancelling your Account on the App.
 - 11.2 Upon termination in accordance with clause 11.1, you will be able to continue to use the App until the next Subscription Renewal Date, after which time you will no longer be able to use the App.
 - 11.3. Termination of these terms in accordance with clause 11.1 will not prejudice any rights and/or obligations accrued by either party prior to the date of termination.  Upon termination of these terms, you and we must promptly fulfil all our obligations under these terms, including for the avoidance of doubt, the delivery of any outstanding Buyer Orders accepted by you prior to the termination of these terms.
 
-## 12. Changes
+### 12. Changes
 
 - 12.1. We reserve the right to make changes to these terms by sending you an email with the change or notifying you of the change when you next open the App.
 - 12.2. We will give you advance notice of:
@@ -145,7 +145,7 @@ Version 1.0
   - (b) any increase to the Subscription Fee.
 - 12.3. By continuing to use the App after the change, you are agreeing to the change.  If you are unhappy with any changes we have made, you may choose to terminate these terms at any time in accordance with clause 11.1.
 
-## 13. Dispute Resolution
+### 13. Dispute Resolution
 
 - 13.1. You and we must use reasonable endeavours to resolve any and all Disputes by good faith negotiations.  If a Dispute is settled at or following negotiations under this clause 13, such settlement shall be recorded in writing and be signed by you and us, whereupon it shall be final and binding.
 - 13.2. If the Dispute cannot be resolved by negotiations under clause 13.1 within 10 Business Days, you or us may, by written notice to the other party, require that the Dispute be dealt with by mediation under the following terms:
@@ -159,7 +159,7 @@ Version 1.0
   - (b) to recover or enforce a debt payable; or
   - (c) to enforce a settlement agreed to under clause 13.1 or 13.2.
 
-## 14. General Provisions
+### 14. General Provisions
 
 - 14.1. These terms constitute the entire agreement and understanding of you and us relating to the matters dealt with in these terms and supersedes and extinguishes any previous agreement, discussions, negotiations, promise, assurance, warranty and representation (whether oral or written) between you and us in relation to such matters.  Nothing in this clause 14 operates to limit or exclude any liability for fraud.
 - 14.2. You warrant and represent that:
